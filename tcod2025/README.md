@@ -12,3 +12,8 @@ The files are:
 - iceocean-tcod2025_starter.ipynb : the problem set
 - iceocean-tcod2025_solutions.ipynb : the problem set with solutions, available at the end of the session
 - teaching.yml : the environment file (modules required) to create a suitable conda environment
+
+### Getting started
+
+- Install Miniconda : https://www.anaconda.com/docs/getting-started/miniconda/main
+- Create the environment using teaching.yml : https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
