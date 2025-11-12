@@ -1,5 +1,5 @@
 ## Theoretical Challenges for Ocean Dynamics
-# Ice-ocean interactions jupyter notebook
+### Ice-ocean interactions jupyter notebook
 
 This is the public repository for the coding/hands-on session on ice-ocean interactions of the Theoretical Challenges for Ocean Dynamics graduate school week, which will take place at ENS de Lyon from Nov 17 to 21st 2025. The notebook explores the validity of the 3-equation parameterization for ice-ocean boundary layers using data from Ronne ice shelf (site 5).
 
