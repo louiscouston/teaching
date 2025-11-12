@@ -17,3 +17,8 @@ The files are:
 
 - Install Miniconda : https://www.anaconda.com/docs/getting-started/miniconda/main
 - Create the environment using teaching.yml : https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+### Related references
+
+- Rosevear, M. G., Gayen, B., Vreugdenhil, C. A., & Galton-Fenzi, B. K. (2025). How does the ocean melt Antarctic ice shelves?. Annual Review of Marine Science, 17(1), 325-353.
+- Hattermann, T., Nicholls, K. W., Hellmer, H. H., Davis, P. E., Janout, M. A., Østerhus, S., ... & Kanzow, T. (2021). Observed interannual changes beneath Filchner-Ronne Ice Shelf linked to large-scale atmospheric circulation. Nature Communications, 12(1), 2961.
