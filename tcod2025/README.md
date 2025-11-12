@@ -22,3 +22,4 @@ The files are:
 
 - Rosevear, M. G., Gayen, B., Vreugdenhil, C. A., & Galton-Fenzi, B. K. (2025). How does the ocean melt Antarctic ice shelves?. Annual Review of Marine Science, 17(1), 325-353.
 - Hattermann, T., Nicholls, K. W., Hellmer, H. H., Davis, P. E., Janout, M. A., Østerhus, S., ... & Kanzow, T. (2021). Observed interannual changes beneath Filchner-Ronne Ice Shelf linked to large-scale atmospheric circulation. Nature Communications, 12(1), 2961.
+- Janout, M. A., Hellmer, H. H., Hattermann, T., Huhn, O., Sültenfuss, J., Østerhus, S., ... & Kanzow, T. (2021). FRIS revisited in 2018: On the circulation and water masses at the Filchner and Ronne ice shelves in the southern Weddell Sea. Journal of Geophysical Research: Oceans, 126(6), e2021JC017269.
